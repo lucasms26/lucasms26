@@ -11,7 +11,7 @@
 -📫Minhas redes sociais:
 
 
-<img width=30px, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg", href="https://www.linkedin.com/in/lucas-martins-da-silva-653711217/" />
+<img width=30px, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/lucas-martins-da-silva-653711217/" />
           
 
 
