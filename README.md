@@ -7,3 +7,8 @@
 -📫Minhas redes sociais:
 https://www.linkedin.com/in/lucas-martins-da-silva-653711217/
 https://www.instagram.com/lucasms36/?hl=pt-br
+
+
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=lucasms26=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"></a>
+</div>
