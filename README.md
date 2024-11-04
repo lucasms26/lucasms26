@@ -13,6 +13,6 @@
 https://www.instagram.com/lucasms36/?hl=pt-br
 
 
-<img width=60px, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width=60px, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/react-original.svg" /> <img width=60px, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width=60px, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width=60px, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img width=60px, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
           
