@@ -44,7 +44,7 @@ Plataforma educacional gratuita para conectar professores e alunos com salas vir
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasms26&show_icons=true&theme=radical)
+
 
 
           
