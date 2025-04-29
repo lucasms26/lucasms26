@@ -21,7 +21,7 @@
 
 ### 🔧 Bot de Reinicialização via Telegram
 Bot criado com Python e integração à API do Telegram. Lista condomínios disponíveis e executa ações de suporte N1 de forma automatizada.  
-🔗 [Acessar repositório](https://github.com/seuusuario/repositorio-do-bot)
+🔗 [Acessar repositório](https://github.com/lucasms26/refactored-telegram)
 
 ### 📚 EducaOnline (em desenvolvimento)
 Plataforma educacional gratuita para conectar professores e alunos com salas virtuais, provas e aulas ao vivo.  
