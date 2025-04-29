@@ -20,7 +20,7 @@
 ## 🚧 Projetos em Destaque
 
 ### 🔧 Bot de Reinicialização via Telegram
-Bot criado com Python e integração à API do Telegram. Lista condomínios disponíveis e executa ações administrativas de forma automatizada.  
+Bot criado com Python e integração à API do Telegram. Lista condomínios disponíveis e executa ações de suporte N1 de forma automatizada.  
 🔗 [Acessar repositório](https://github.com/seuusuario/repositorio-do-bot)
 
 ### 📚 EducaOnline (em desenvolvimento)
